@@ -1642,6 +1642,7 @@
   ./services/web-apps/wiki-js.nix
   ./services/web-apps/windmill.nix
   ./services/web-apps/wordpress.nix
+  ./services/misc/speedtest-tracker.nix
   ./services/web-apps/writefreely.nix
   ./services/web-apps/your_spotify.nix
   ./services/web-apps/youtrack.nix
